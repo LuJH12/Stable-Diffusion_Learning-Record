@@ -65,6 +65,7 @@ Negative prompt: NSFW, (worst quality:2), (low quality:2), (normal quality:2), l
 其他参数暂时没找到，找到后更新
 
 第二张是生成了一只可爱小狗，但是还是存在很多问题，生成得不够好（技术不过关，而非Stable-Diffusion的问题）。
+
 ![image](https://github.com/LuJH12/Stable-Diffusion_Learning-Record/blob/main/Picture/00049-3688003120-SFW%2C%20(((1smalldog_1.5)))%2C%20%20running%2C%20forest%2C%20path%2C%20sun%2C%20face%20forward%2C%20_happy%2C%20cute%2C%20white%2C%20Tugou%2C%20samll%2C%20%20spot%20color%2C%20_trees%2C%20bus.png)
 
 **Prompts**
