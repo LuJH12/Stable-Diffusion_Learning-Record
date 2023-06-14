@@ -46,3 +46,16 @@
 
 ### Seed(随机种子)
 随机种子，默认为-1(这代表每次画图都是具有随机性的)。这个参数可以用在，当你画出了一张较为满意的图，但需要进行微调一部分时可以用到。比如我画了一张图，它的随机种子为2584684，而我可以保持这个随机种子不变，并加上一些需要修改的prompts，这样就对该图进行微调了。
+
+## 文生图
+这个比较简单，一般就是按格式输入prompts和Negative prompts，选择合适的参数，即可生成自己想要的图片。当然，一般来说，prompts越多，描述的越详细，生成的图片就会越符合。
+以下是例子：
+
+**prompts**
+SFW, 1girl, walking, forest, path, sun, sunshine, shining on body,
+blue skirt and white t-shirt, blonde hair, short hair,
+trees, bush, ((white flower)), path, outdoor,
+(masterpiece:1,2), best quality, masterpiece, highres, original, extremely detailed wallpaper, perfect lighting,(extremely detailed CG:1.2), drawing, paintbrush,
+**Negative prompts**
+Negative prompt: NSFW, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((grayscale)), skin spots, acnes, skin blemishes, age spot, (ugly:1.331), (duplicate:1.331), (morbid:1.21), (mutilated:1.21), (tranny:1.331), mutated hands, (poorly drawn hands:1.5), blurry, (bad anatomy:1.21), (bad proportions:1.331), extra limbs, (disfigured:1.331), (missing arms:1.331), (extra legs:1.331), (fused fingers:1.61051), (too many fingers:1.61051), (unclear eyes:1.331), lowers, bad hands, missing fingers, extra digit,bad hands, missing fingers, (((extra arms and legs))),
+其他参数暂时没找到，找到后更新
