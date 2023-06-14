@@ -50,12 +50,15 @@
 ## 文生图
 这个比较简单，一般就是按格式输入prompts和Negative prompts，选择合适的参数，即可生成自己想要的图片。当然，一般来说，prompts越多，描述的越详细，生成的图片就会越符合。
 以下是例子：
+![image](https://github.com/LuJH12/Stable-Diffusion_Learning-Record/blob/main/Picture/00044-1503880058-SFW%2C%201girl%2C%20walking%2C%20forest%2C%20path%2C%20sun%2C%20sunshine%2C%20shining%20on%20body%2C%201dog%2C_blue%20skirt%20and%20white%20t-shirt%2C%20blonde%20hair%2C%20short%20hair%2C.png)
 
 **prompts**
 SFW, 1girl, walking, forest, path, sun, sunshine, shining on body,
 blue skirt and white t-shirt, blonde hair, short hair,
 trees, bush, ((white flower)), path, outdoor,
 (masterpiece:1,2), best quality, masterpiece, highres, original, extremely detailed wallpaper, perfect lighting,(extremely detailed CG:1.2), drawing, paintbrush,
+
 **Negative prompts**
 Negative prompt: NSFW, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((grayscale)), skin spots, acnes, skin blemishes, age spot, (ugly:1.331), (duplicate:1.331), (morbid:1.21), (mutilated:1.21), (tranny:1.331), mutated hands, (poorly drawn hands:1.5), blurry, (bad anatomy:1.21), (bad proportions:1.331), extra limbs, (disfigured:1.331), (missing arms:1.331), (extra legs:1.331), (fused fingers:1.61051), (too many fingers:1.61051), (unclear eyes:1.331), lowers, bad hands, missing fingers, extra digit,bad hands, missing fingers, (((extra arms and legs))),
+
 其他参数暂时没找到，找到后更新
