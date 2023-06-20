@@ -104,3 +104,9 @@ Saved: 00049-3688003120-SFW, (((1smalldog_1.5))), running, forest, path, sun, fa
 
 ## 局部重绘
 待更新。。。
+
+## 模型介绍
+
+**1. AbyssOrangeMix**
+- 各方面均衡，对新手较友好(有专门的VAE)
+
