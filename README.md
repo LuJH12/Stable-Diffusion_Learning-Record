@@ -159,11 +159,6 @@ Saved: 00049-3688003120-SFW, (((1smalldog_1.5))), running, forest, path, sun, fa
 ![image](https://github.com/LuJH12/Stable-Diffusion_Learning-Record/blob/main/Picture/CarDos_Anime_1.png)
 ![image](https://github.com/LuJH12/Stable-Diffusion_Learning-Record/blob/main/Picture/CarDos_Anime_2.png)
 
-**9. CarDos Anime**
-- 质感像八九十年代的经典动漫，可以加上双重曝光功能，会得到下图的风格
-![image](https://github.com/LuJH12/Stable-Diffusion_Learning-Record/blob/main/Picture/CarDos_Anime_1.png)
-![image](https://github.com/LuJH12/Stable-Diffusion_Learning-Record/blob/main/Picture/CarDos_Anime_2.png)
-
 **10. 国风3(GuoFeng3)**
 - 国风，水墨风格
 ![image](https://github.com/LuJH12/Stable-Diffusion_Learning-Record/blob/main/Picture/GuoFeng3_1.png)
@@ -171,7 +166,9 @@ Saved: 00049-3688003120-SFW, (((1smalldog_1.5))), running, forest, path, sun, fa
 ![image](https://github.com/LuJH12/Stable-Diffusion_Learning-Record/blob/main/Picture/GuoFeng3_3.png)
 
 ### 模型对应下载地址
+下图中含有上述10个模型的下载地址。
 ![image](https://github.com/LuJH12/Stable-Diffusion_Learning-Record/blob/main/Picture/Model_List.png)
 
 ## 进阶模型
+待补充。。。
 ![image](https://github.com/LuJH12/Stable-Diffusion_Learning-Record/blob/main/Picture/Advanced_Models.png)
