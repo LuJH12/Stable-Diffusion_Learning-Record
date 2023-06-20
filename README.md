@@ -109,7 +109,8 @@ Saved: 00049-3688003120-SFW, (((1smalldog_1.5))), running, forest, path, sun, fa
 
 **1. AbyssOrangeMix**
 - 各方面均衡，对新手较友好(有专门的VAE)
-![图1](https://github.com/LuJH12/Stable-Diffusion_Learning-Record/blob/main/Picture/AbyssOrangeMix_1.png)![图2](https://github.com/LuJH12/Stable-Diffusion_Learning-Record/blob/main/Picture/AbyssOrangeMix_2.png)
+![图1](https://github.com/LuJH12/Stable-Diffusion_Learning-Record/blob/main/Picture/AbyssOrangeMix_1.png =100x100)
+![图2](https://github.com/LuJH12/Stable-Diffusion_Learning-Record/blob/main/Picture/AbyssOrangeMix_2.png =100x100)
 
 **2. Counterfeit**
 - 插画风格，细节好(作者提供embeding)
