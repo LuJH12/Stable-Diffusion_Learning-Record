@@ -1,7 +1,7 @@
 # Stable-Diffusion_Learning-Record
 
 ## 简介
-[**Stable-Diffusion**](https://github.com/CompVis/stable-diffusion)简称(SD)，Stable Diffusion是一个文本到图像的潜在扩散模型，由[CompVis](https://github.com/CompVis)、[Stability AI](https://github.com/Stability-AI)等研究人员和工程师创建。其使用来自LAION-5B数据库子集的512x512图像进行训练。本次学习中，主要参考B站的一个Up主，[Nenly同学](https://space.bilibili.com/1814756990)的视频，感谢这位大佬的教学。
+[**Stable-Diffusion**](https://github.com/CompVis/stable-diffusion)简称(SD)，Stable Diffusion是一个文本到图像的潜在扩散模型，由[CompVis](https://github.com/CompVis)、[Stability AI](https://github.com/Stability-AI)等研究人员和工程师创建。其使用来自LAION-5B数据库子集的512x512图像进行训练。本次学习笔记中，主要参考B站的一个Up主，[Nenly同学](https://space.bilibili.com/1814756990)的视频，感谢这位大佬的教学。
 
 ## 配置要求
 对于Stable-Diffusion这个模型，跑动它需要有一定的配置，下面配置表是参考[Nenly同学](https://space.bilibili.com/1814756990)的课程
@@ -87,3 +87,15 @@ Saved: 00049-3688003120-SFW, (((1smalldog_1.5))), running, forest, path, sun, fa
 ![image](https://github.com/LuJH12/Stable-Diffusion_Learning-Record/blob/main/Picture/img2img_test.png)
 
 由于使用的是我朋友的原图，这里就打码了:stuck_out_tongue_winking_eye:，在图生图的过程中，如果你生成了一张较为满意的图片，你就可以固定`随机种子`的数值保持不变，然后通过修改提示词等方式对图片进行调整。调整的方法有很多，如：修改提示词，放大修复(图片变清晰)，局部重绘等。
+
+## 放大修复
+放大修复主要有三种，分别为：文生图-高清修复，图生图-SD放大，生成后处理-附加功能。下面将分别介绍这几种功能。
+
+### 文生图-高清修复(打回重画，再来一幅)
+分两步处理图像，先生成一个低分辨率版本，再根据它与指定的放大算法，再生成一个高分辨率版本，从而在不更改图的情况下丰富细节。(特点：效果较好，但多次生成，费算力，且电脑配置较差的话，仍然不能生成分辨率较大的图片)
+
+### 图生图-SD放大(分几块画，拼在一起)
+根据指定的放大倍数，将图生图的图像拆分成若干小块按固定的逻辑进行重绘，再拼成一张大图，可以实现在低显存下绘制大尺寸图片。(特点：效果也较好，但是多图拼接可能会出现问题-->需要合适的Tile overlap)
+
+### 生成后处理-附加功能(简单放大，随时可用)
+利用各种放大算法，在图像生成后对其进行单独的放大处理，使之拥有更高的分辨率尺寸(特点：方便简单，但效果不太好)
