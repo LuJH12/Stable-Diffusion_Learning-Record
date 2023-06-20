@@ -86,4 +86,4 @@ Saved: 00049-3688003120-SFW, (((1smalldog_1.5))), running, forest, path, sun, fa
 
 ![image](https://github.com/LuJH12/Stable-Diffusion_Learning-Record/blob/main/Picture/img2img_test.png)
 
-由于使用的是我朋友的原图，这里就打码了:stuck_out_tongue_winking_eye:
+由于使用的是我朋友的原图，这里就打码了:stuck_out_tongue_winking_eye:，在图生图的过程中，如果你生成了一张较为满意的图片，你就可以固定`随机种子`的数值保持不变，然后通过修改提示词等方式对图片进行调整。调整的方法有很多，如：修改提示词，放大修复(图片变清晰)，局部重绘等。
