@@ -127,3 +127,51 @@ Saved: 00049-3688003120-SFW, (((1smalldog_1.5))), running, forest, path, sun, fa
 - 西方面孔，幻想主题，也可以用在大场景创造
 ![image](https://github.com/LuJH12/Stable-Diffusion_Learning-Record/blob/main/Picture/ReV_Animated_1.png)
 ![image](https://github.com/LuJH12/Stable-Diffusion_Learning-Record/blob/main/Picture/ReV_Animated_2.png)
+
+**4. Paste-Mix**
+- 艺术，油画风格
+![image](https://github.com/LuJH12/Stable-Diffusion_Learning-Record/blob/main/Picture/PasteMix_1.png)
+![image](https://github.com/LuJH12/Stable-Diffusion_Learning-Record/blob/main/Picture/PasteMix_2.png)
+
+**5. Cetus-Mix**
+- 插画风格，可以加`MPixel`的LoRA结合生成像素风图片
+![image](https://github.com/LuJH12/Stable-Diffusion_Learning-Record/blob/main/Picture/CetusMix_1.png)
+![image](https://github.com/LuJH12/Stable-Diffusion_Learning-Record/blob/main/Picture/CetusMix_2.png)
+![image](https://github.com/LuJH12/Stable-Diffusion_Learning-Record/blob/main/Picture/CetusMix_3.png)
+
+**6. Dalcefo painting**
+- 有“仙气”，优雅平静，低饱和，油画风格
+![image](https://github.com/LuJH12/Stable-Diffusion_Learning-Record/blob/main/Picture/Dalcefopating_1.png)
+![image](https://github.com/LuJH12/Stable-Diffusion_Learning-Record/blob/main/Picture/Dalcefopating_2.png)
+
+**7. TMND-Mix**
+- 描边厚涂插画风
+![image](https://github.com/LuJH12/Stable-Diffusion_Learning-Record/blob/main/Picture/TMNDMix_1.png)
+![image](https://github.com/LuJH12/Stable-Diffusion_Learning-Record/blob/main/Picture/TMNDMix_2.png)
+
+**8. Dark Sushi Mix**
+- 暗色调，阴郁，黑暗炫酷，也可以画一些大场景
+![image](https://github.com/LuJH12/Stable-Diffusion_Learning-Record/blob/main/Picture/Dark_Sushi_Mix_1.png)
+![image](https://github.com/LuJH12/Stable-Diffusion_Learning-Record/blob/main/Picture/Dark_Sushi_Mix_2.png)
+
+**9. CarDos Anime**
+- 质感像八九十年代的经典动漫，可以加上双重曝光功能，会得到下图的风格
+![image](https://github.com/LuJH12/Stable-Diffusion_Learning-Record/blob/main/Picture/CarDos_Anime_1.png)
+![image](https://github.com/LuJH12/Stable-Diffusion_Learning-Record/blob/main/Picture/CarDos_Anime_2.png)
+
+**9. CarDos Anime**
+- 质感像八九十年代的经典动漫，可以加上双重曝光功能，会得到下图的风格
+![image](https://github.com/LuJH12/Stable-Diffusion_Learning-Record/blob/main/Picture/CarDos_Anime_1.png)
+![image](https://github.com/LuJH12/Stable-Diffusion_Learning-Record/blob/main/Picture/CarDos_Anime_2.png)
+
+**10. 国风3(GuoFeng3)**
+- 国风，水墨风格
+![image](https://github.com/LuJH12/Stable-Diffusion_Learning-Record/blob/main/Picture/GuoFeng3_1.png)
+![image](https://github.com/LuJH12/Stable-Diffusion_Learning-Record/blob/main/Picture/GuoFeng3_2.png)
+![image](https://github.com/LuJH12/Stable-Diffusion_Learning-Record/blob/main/Picture/GuoFeng3_3.png)
+
+### 模型对应下载地址
+![image](https://github.com/LuJH12/Stable-Diffusion_Learning-Record/blob/main/Picture/Model_List.png)
+
+## 进阶模型
+![image](https://github.com/LuJH12/Stable-Diffusion_Learning-Record/blob/main/Picture/Advanced_Models.png)
